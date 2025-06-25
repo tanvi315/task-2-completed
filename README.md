@@ -3,7 +3,7 @@
 ##  Objective
 The goal of this task is to practice SQL DML operations such as `INSERT`, `UPDATE`, and `DELETE`, and learn how to handle `NULL` values and `DEFAULT` constraints.
 
-## 🛠 Tools Used
+##  Tools Used
 - [DB Fiddle](https://www.db-fiddle.com) – Used for writing and testing SQL queries online with MySQL 8.0.
 - GitHub – For storing and submitting the SQL file and README.
 
@@ -40,6 +40,6 @@ The goal of this task is to practice SQL DML operations such as `INSERT`, `UPDAT
 - SELECT queries to verify data
 
 ##  Status
-✔ Task completed successfully and ready for submission.
+-Task completed successfully and ready for submission.
 # task-2-completed
 task 2
